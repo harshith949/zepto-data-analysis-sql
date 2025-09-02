@@ -28,8 +28,7 @@ Dataset was sourced from Kaggle and represents product listings from **Zepto**.
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/harshith949/zepto-sql-analysis.git
-   cd zepto-sql-analysis
+   https://github.com/harshith949/zepto-sql-analysis
 
 2. Open zepto_sql_analysis.sql in your SQL client (PostgreSQL / pgAdmin).
 
